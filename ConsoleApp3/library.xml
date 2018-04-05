@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <section category="Science-fiction">
+    <book>
+      <title>Solaris</title>
+      <author>Stanisław Lem</author>
+      <isbn>9788308049051</isbn>
+      <release_date>marzec 2012 (data przybliżona)</release_date>
+    </book>
+    <book>
+      <title>Diuna</title>
+      <author>Frank Herbert</author>
+      <isbn>9788373017238</isbn>
+      <release_date>7 marca 2007</release_date>
+    </book>
+    <book>
+      <title>Hyperion</title>
+      <author>Dan Simmons</author>
+      <isbn>9788374805575</isbn>
+      <release_date>wrzesień 2015 (data przybliżona)</release_date>
+    </book>
+  </section>
+  <section category="Astrofizyka">
+    <book>
+      <title>Ilustrowana krótka historia czasu</title>
+      <author>Stephen Hawking</author>
+      <isbn>9788377859926</isbn>
+      <release_date>5 września 2016</release_date>
+    </book>
+    <book>
+      <title>Kosmos</title>
+      <author>Carl Sagan</author>
+      <isbn>9788377858820</isbn>
+      <release_date>29 sierpnia 2016</release_date>
+    </book>
+    <book>
+      <title>Wizje, czyli jak nauka zmieni świat w XXI wieku</title>
+      <author>Michio Kaku</author>
+      <isbn>9788376484730</isbn>
+      <release_date>9 września 2010</release_date>
+    </book>
+  </section>
+  <section category="programowanie">
+    <book>
+      <title>Czysty kod. Podręcznik dobrego programisty</title>
+      <author>Robert Cecil Martin</author>
+      <isbn>9788324621880</isbn>
+      <release_date>luty 2010 (data przybliżona)</release_date>
+    </book>
+    <book>
+      <title>Socjotechnika. Sztuka zdobywania władzy nad umysłami</title>
+      <author>Christopher Hadnagy</author>
+      <isbn>9788324634330</isbn>
+      <release_date>luty 2012 (data przybliżona)</release_date>
+    </book>
+    <book>
+      <title>Symfonia C ++ Standard</title>
+      <author>Jerzy Grębosz</author>
+      <isbn>9788373661344</isbn>
+      <release_date>październik 2008 (data przybliżona)</release_date>
+    </book>
+  </section>
+</library>
